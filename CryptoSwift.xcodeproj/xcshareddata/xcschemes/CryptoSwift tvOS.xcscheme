@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0710"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5596BDBA1BC8F220007E38D5"
+               BlueprintIdentifier = "55015E211BC8F72D00D18958"
                BuildableName = "CryptoSwift.framework"
-               BlueprintName = "CryptoSwift watchOS"
+               BlueprintName = "CryptoSwift tvOS"
                ReferencedContainer = "container:CryptoSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5596BDBA1BC8F220007E38D5"
+            BlueprintIdentifier = "55015E211BC8F72D00D18958"
             BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift watchOS"
+            BlueprintName = "CryptoSwift tvOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5596BDBA1BC8F220007E38D5"
+            BlueprintIdentifier = "55015E211BC8F72D00D18958"
             BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift watchOS"
+            BlueprintName = "CryptoSwift tvOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
